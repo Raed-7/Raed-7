@@ -79,31 +79,59 @@ Raed().say_hi()
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Raed-7/App-Fake-Review-Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raed-7&repo=App-Fake-Review-Detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
-</a>
-<a href="https://github.com/Raed-7/volunteer-hours-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raed-7&repo=volunteer-hours-api&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
-</a>
-<a href="https://github.com/Raed-7/ros2_project_sc23r2a">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raed-7&repo=ros2_project_sc23r2a&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
-</a>
-<a href="https://github.com/Raed-7/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raed-7&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
-</a>
+### 🤖 [App-Fake-Review-Detection](https://github.com/Raed-7/App-Fake-Review-Detection)
+Bilingual (English + Arabic) fake review detector using fine-tuned DistilBERT + CamelBERT, deployed as a FastAPI web app.
 
-</div>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
+</td>
+<td width="50%" valign="top">
+
+### 🦾 [ros2_project_sc23r2a](https://github.com/Raed-7/ros2_project_sc23r2a)
+Robotics project built with ROS2 — autonomous behaviour and navigation.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [volunteer-hours-api](https://github.com/Raed-7/volunteer-hours-api)
+REST API for tracking and managing volunteer hours.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 [Portfolio](https://github.com/Raed-7/Portfolio)
+Personal portfolio website showcasing my projects and skills.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+</table>
 ---
 
 ## 📊 GitHub in Numbers
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Raed-7&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raed-7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raed-7&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raed-7&theme=tokyonight" />
 
 <br/>
 
