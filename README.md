@@ -40,7 +40,7 @@ class Raed:
         self.fun_fact     = "I built a bilingual AI to sniff out fake reviews 🕵️"
 
     def say_hi(self):
-        print("Thanks for stopping by — let's build something cool together!")
+        print("Thanks for stopping by - let's build something cool together!")
 
 Raed().say_hi()
 ```
@@ -153,7 +153,7 @@ Raed().say_hi()
 
 <br/><br/>
 
-<sub>⭐️ From <a href="https://github.com/Raed-7">Raed-7</a> — thanks for visiting!</sub>
+<sub>⭐️ From <a href="https://github.com/Raed-7">Raed-7</a> - thanks for visiting!</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
