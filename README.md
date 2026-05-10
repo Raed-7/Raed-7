@@ -33,7 +33,7 @@
 ```python
 class Raed:
     def __init__(self):
-        self.role         = "Software Developer"
+        self.role         = "AI & Software Developer"
         self.languages    = ["English", "Arabic", "Python", "JavaScript"]
         self.focus_areas  = ["AI / ML", "NLP", "Robotics", "Web Dev"]
         self.learning     = ["LLMs", "MLOps", "Cloud Architecture"]
